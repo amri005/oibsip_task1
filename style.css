@@ -1,0 +1,151 @@
+body{
+    background-color: rgba(226, 211, 231, 0.704);
+    background-image: url("ammu.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-clip:border-box;
+}
+nav{
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e1cce4;
+  }
+  
+  li a {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(18, 17, 17);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  li a:hover {
+    background-color: #bd2e89;
+  }
+  ol{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e1cce4;
+  }
+  li b{
+    float: left;
+    font-size: large;
+    
+  }
+
+}
+div.A{
+ 
+    height: 500px;
+    width: 300%;
+    
+}
+img.o{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+div.a{
+    background-color: rgba(212, 66, 241, 0.4);
+    background-image: url("a.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-clip:border-box;
+    height: 300px;
+  width: 100%;
+  background-size: 500px 350px;
+}
+h1.b{
+    font-family: "Ubuntu",sans-serif;
+    font-size: 35px;
+    text-shadow: 2px 2px whitesmoke;
+    color:black;
+    text-align:left;
+}
+p.c{
+    font-family:"Lora",sans-serif ;
+    text-align:left;
+    text-align-last: left;
+    line-height: normal;
+    word-spacing: normal;
+    font-size: 25px;
+ }
+ div.d{
+    background-color: rgb(186, 211, 234, 0.4);
+    background-image: url("b.jpg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-attachment: scroll;
+    background-clip:border-box;
+    height: 300px;
+  width: 100%;
+  background-size: 500px 300px;
+}
+h1.e{
+    font-family: "Ubuntu",sans-serif;
+    font-size: 35px;
+    text-shadow: 2px 2px whitesmoke;
+    color:black;
+    text-align:right;
+}
+p.f{
+    font-family:"Lora",sans-serif ;
+    text-align:right;
+    line-height: normal;
+    word-spacing: 1.4px;
+    font-size: 25px;
+}
+div.g{
+    background-color: rgb(240, 203, 147 ,0.4);
+  background-image: url("c.jpg");
+  background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: scroll;
+    background-clip:border-box;
+    height: 300px;
+  width: 100%;
+  background-size: 500px 300px;
+
+}
+h1.h{
+    font-family: "Merriweather",sans-serif;
+    font-size: 35px;
+    color:black;
+    text-align:center;
+}
+p.i{
+    font-family: "Open Sans",sans-serif;
+    font-size: 25px;
+    color:black;
+    text-align:left;
+}
+button{
+    background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+div z{
+  background-color: #339a76;
+  height: 300px;
+  width: 100%;
+}
+    
